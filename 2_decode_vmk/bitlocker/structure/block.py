@@ -31,7 +31,7 @@ class FveBlock:
     algorithm: int = None
     algorithm_unused: int = None
     timestamp: datetime = None
-    entries: List[FveEntry] = []
+    entries: List[FveEntry] = None
     object_offset: int = 0
 
     def __init__(self, size, version, header_size, copy_size, volume_guid, next_counter, algorithm, algorithm_unused, timestamp, entries, object_offset=0):

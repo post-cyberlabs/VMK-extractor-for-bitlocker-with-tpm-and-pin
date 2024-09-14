@@ -1,0 +1,3 @@
+[submodule "1_extract_KP/tpmstream"]
+	path = 1_extract_KP/tpmstream
+	url = https://github.com/joholl/tpmstream.git
