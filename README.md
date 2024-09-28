@@ -1,5 +1,7 @@
 # VMK extractor for bitlocker with tpm and pin
 
+**Article**: https://post-cyberlabs.github.io/Offensive-security-publications/posts/2024_09_tpmandpin/
+
 # Overview
 
 Technic to extract VMK from bitlocker volume that are protected by TPM are already documented in different publication.
